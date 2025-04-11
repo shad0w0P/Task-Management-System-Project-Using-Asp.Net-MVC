@@ -23,7 +23,7 @@
   </li>
   <li><h5>User Roles:</h5>
     <ul>
-      <li>Have different user roles such as regular user and administrator.</li>
+      <li>Have different user roles, such as regular user and administrator.</li>
       <li>Only administrators should be able to delete tasks.</li>
     </ul>
   </li>
@@ -56,7 +56,7 @@
     <ul><li>Sketch or describe how the user interface will look, including the pages for task creation, task listing, and user management.</li></ul>
   </li>
   <li><h5>Implementation Plan:</h5>
-    <ul><li>Break down the implementation into smaller tasks and create a timeline.</li></ul>
+    <ul><li>Break the implementation into smaller tasks and create a timeline.</li></ul>
   </li>
   <li><h5>Challenges and Solutions:</h5>
     <ul><li>Anticipate potential challenges and provide solutions.</li></ul>
@@ -68,9 +68,4 @@
     <ul><li>Summarize the key points of the document.</li></ul>
   </li>
 </ol>
-<p>Remember that this is just a basic outline, and you can analyze and add more details based on the complexity and requirements of your mini-project. Good luck with your ASP.NET MVC mini-project!</p>
-
-<h1>BluePrint of Task Management System Project </h1>
-<p>Unlock the secrets of our mini-project by checking out the detailed blueprint in our Blogger post. Click here to see how we've designed the roadmap for our ASP.NET MVC Task Management System. Let's dive into the coding adventure together!<br/>
-<a href='https://www.fresherscoder.com/2024/01/aspnet-mvc-mini-projects-task-management-system-blueprint.html' title='Blue Print of Task Management System Project'>Task Management System Project : BluePrint</a></p>
-<br/>
+<p>Remember that this is just a basic outline; you can analyze and add more details based on the complexity. Good luck with your ASP.NET MVC mini-project!</p>
